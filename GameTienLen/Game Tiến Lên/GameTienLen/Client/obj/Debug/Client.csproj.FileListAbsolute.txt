@@ -1,0 +1,10 @@
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\bin\Debug\Client.exe.config
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\bin\Debug\Client.exe
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\bin\Debug\Client.pdb
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.Form1.resources
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.exe
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.pdb
+D:\Big Project C#\Game Tiến Lên\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
